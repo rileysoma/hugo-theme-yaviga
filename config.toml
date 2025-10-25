@@ -5,7 +5,7 @@ disableKinds = [
   "taxonomy",
   "term"
 ]
-baseURL = "https://mipmip.github.io/hugo-theme-yaviga/"
+baseURL = "https://rileysoma.github.io/hugo-theme-yaviga/"
 
 [services]
 
@@ -18,14 +18,14 @@ images_downloadable = false
 showBreadCrum = false
 
   [params.author]
-  name = "John Doe"
-  email = "jon@doe.com"
+  name = "Riley Soma"
+  email = "riley@rileyfires.com"
 
   [params.header]
 
-    [[params.header.links]]
-    name = "Cats"
-    url = "/hugo-theme-yaviga/gallery/cats/"
+    # [[params.header.links]]
+    # name = "Cats"
+    # url = "/hugo-theme-yaviga/gallery/cats/"
 
     [[params.header.links]]
     name = "Video's"
@@ -40,7 +40,7 @@ showBreadCrum = false
 
     [params.footer.paragraph]
     headline = "Contact me"
-    text = "This is my portfolio. Photo's and video's. Call me or send me a mail..\n\n[john@doe.com](mailto:john@doe.com) [+31 6 1234567890](tel:+3161234567890)"
+    text = "This is my portfolio. Photo's and video's. Call me or send me a mail..\n\n[riley@rileyfires.com](mailto:riley@rileyfires.com) [+1 9084587031](tel:+19084587031)"
 
     [params.footer.social]
     headline = "Follow me"
@@ -90,4 +90,4 @@ showBreadCrum = false
       warning = "Please, enter your message"
 
     [params.footer.copyright]
-    name = "2024 - John Doe"
+    name = "2025 - Riley Soma"
